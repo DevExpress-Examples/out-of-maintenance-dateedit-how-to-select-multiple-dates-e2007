@@ -1,3 +1,12 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [DatePeriod.cs](./CS/DatePeriodEdit/DatePeriod.cs) (VB: [DatePeriod.vb](./VB/DatePeriodEdit/DatePeriod.vb))
+* [DatePeriodEdit.cs](./CS/DatePeriodEdit/DatePeriodEdit.cs) (VB: [DatePeriodEdit.vb](./VB/DatePeriodEdit/DatePeriodEdit.vb))
+* [Form1.cs](./CS/DatePeriodEdit/Form1.cs) (VB: [Form1.vb](./VB/DatePeriodEdit/Form1.vb))
+* [Program.cs](./CS/DatePeriodEdit/Program.cs) (VB: [Program.vb](./VB/DatePeriodEdit/Program.vb))
+* [VistaDatePeriodEditCalendar.cs](./CS/DatePeriodEdit/VistaDatePeriodEditCalendar.cs) (VB: [VistaDatePeriodEditCalendar.vb](./VB/DatePeriodEdit/VistaDatePeriodEditCalendar.vb))
+<!-- default file list end -->
 # DateEdit - How to select multiple dates
 
 
